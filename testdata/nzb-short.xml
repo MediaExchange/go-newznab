@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 0.9//EN" "http://www.newzbin.com/DTD/nzb/nzb-0.9.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+    <file poster="bestertester@farkleworth.com (Fester Bestertester)" date="1313789820" subject="(Test) [from Fester Bestertester] - &quot;test.txt&quot; yEnc (1/1)">
+        <groups>
+            <group>alt.binaries.test</group>
+        </groups>
+        <segments>
+            <segment bytes="99" number="1">part1of1.2gx1V1iypAhFpB6Sypzj@fester-bestertester.local</segment>
+        </segments>
+    </file>
+    <file poster="bestertester@farkleworth.com (Fester Bestertester)" date="1313789820" subject="(Test) [from Fester Bestertester] - &quot;test.par2&quot; yEnc (1/1)">
+        <groups>
+            <group>alt.binaries.test</group>
+        </groups>
+        <segments>
+            <segment bytes="448" number="1">part1of1.5dmf173l1&amp;hFUtRczp8x@fester-bestertester.local</segment>
+        </segments>
+    </file>
+</nzb>

@@ -1,0 +1,35 @@
+{
+  "head": {},
+  "file": [
+    {
+      "poster": "bestertester@farkleworth.com (Fester Bestertester)",
+      "date": "1313789820",
+      "subject": "(Test) [from Fester Bestertester] - \"test.txt\" yEnc (1/1)",
+      "group": [
+        "alt.binaries.test"
+      ],
+      "segment": [
+        {
+          "bytes": "99",
+          "number": "1",
+          "name": "part1of1.2gx1V1iypAhFpB6Sypzj@fester-bestertester.local"
+        }
+      ]
+    },
+    {
+      "poster": "bestertester@farkleworth.com (Fester Bestertester)",
+      "date": "1313789820",
+      "subject": "(Test) [from Fester Bestertester] - \"test.par2\" yEnc (1/1)",
+      "group": [
+        "alt.binaries.test"
+      ],
+      "segment": [
+        {
+          "bytes": "448",
+          "number": "1",
+          "name": "part1of1.5dmf173l1\u0026hFUtRczp8x@fester-bestertester.local"
+        }
+      ]
+    }
+  ]
+}
