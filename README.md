@@ -1,10 +1,10 @@
-# nazbaz
+# go-newznab
 
 [![GoDoc](https://godoc.org/github.com/mediaexchange/nazbaz/github?status.svg)](https://godoc.org/github.com/mediaexchange/nazbaz)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Go version](https://img.shields.io/badge/go-~%3E1.15-green.svg)](https://golang.org/doc/devel/release.html#go1.15)
 
-`nazbaz` is a client library for NZB indexers.
+`go-newznab` is an HTTP client library for NZB indexers.
 
 ## Usage
 
