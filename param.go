@@ -24,7 +24,7 @@ import (
 
 // Parameters added to the URL to make a query.
 type Param struct {
-	Name string
+	Name  string
 	Value string
 }
 

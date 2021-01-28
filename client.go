@@ -79,6 +79,7 @@ func GetNzb(url string, key string, id string) (string, error) {
 
 	return string(b), nil
 }
+
 // MovieSearch performs a search restricted to movies.
 func MovieSearch(url string, key string, params ...Param) (string, error) {
 	p := append(params, extended(), Apikey(key), Type("movie"))

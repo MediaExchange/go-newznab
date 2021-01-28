@@ -32,15 +32,15 @@ type Nzb struct {
 
 // Head contains zero or more Meta structs.
 type Head struct {
-	XMLName	xml.Name `xml:"head" json:"-"`
-	Meta    []Meta      `xml:"meta" json:"meta,omitempty"`
+	XMLName xml.Name `xml:"head" json:"-"`
+	Meta    []Meta   `xml:"meta" json:"meta,omitempty"`
 }
 
 // Meta structs are optional, but contain key-value pairs that describe the content of the Nzb.
 type Meta struct {
-	XMLName xml.Name	`xml:"meta" json:"-"`
-	Type 	string		`xml:"type,attr" json:"type,omitempty"`
-	Value 	string		`xml:",chardata" json:"value,omitempty"`
+	XMLName xml.Name `xml:"meta" json:"-"`
+	Type    string   `xml:"type,attr" json:"type,omitempty"`
+	Value   string   `xml:",chardata" json:"value,omitempty"`
 }
 
 // File describes a single file available for download.
@@ -61,8 +61,8 @@ type Groups struct {
 
 // Group contains the name of a Usenet new group that the File is available from.
 type Group struct {
-	XMLName xml.Name	`xml:"group" json:"-"`
-	Value   string		`xml:",chardata" json:"value"`
+	XMLName xml.Name `xml:"group" json:"-"`
+	Value   string   `xml:",chardata" json:"value"`
 }
 
 // Segments contains each Segment that may be downloaded.
