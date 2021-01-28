@@ -61,11 +61,10 @@ func Author(a string) Param {
 }
 
 // Categories returns a Param that defines the media categories to restrict the search within.
-func Categories(cats ...int) Param {
-	// Convert the integers to strings.
+func Categories(cats ...Category) Param {
 	c := make([]string, len(cats))
 	for i := range cats {
-		c[i] = strconv.Itoa(cats[i])
+		c[i] = cats[i].id
 	}
 
 	return Param{
