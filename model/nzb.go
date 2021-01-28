@@ -73,10 +73,10 @@ type Segments struct {
 
 // Segment contains information about a piece of the File that can be downloaded from a news group.
 type Segment struct {
-	XMLName xml.Name `xml:"segment" json:"-"`
-	Bytes   string   `xml:"bytes,attr" json:"bytes"`
-	Number  string   `xml:"number,attr" json:"number"`
-	Name	string   `xml:",chardata" json:"name"`
+	XMLName   xml.Name `xml:"segment" json:"-"`
+	Bytes     string   `xml:"bytes,attr" json:"bytes"`
+	Number    string   `xml:"number,attr" json:"number"`
+	MessageId string   `xml:",chardata" json:"name"`
 }
 
 // MarshalJSON converts a Groups struct to an array of group names for better presentation in JSON format.

@@ -22,12 +22,12 @@ import (
 )
 
 func TestEncodeUrl(t *testing.T) {
-	expected := "http://example.com?a=aaa&b=bbb"
+	expected := "http://localhost?a=aaa&b=bbb"
 	a := "aaa"
 	b := "bbb"
 	c := ""
 
-	actual, err := EncodeUrl("http://example.com",
+	actual, err := EncodeUrl("http://localhost",
 		"a", a,
 		"b", b,
 		"c", c)
