@@ -14,7 +14,7 @@
    limitations under the License.
 */
 
-package model
+package newznab
 
 import (
 	"bytes"
@@ -25,14 +25,14 @@ import (
 
 // Nzb files contain an optional header and one or more File entries.
 type Nzb struct {
-	XMLName xml.Name	`xml:"nzb" json:"-"`
-	Head	Head		`xml:"head" json:"head,omitempty"`
-	File 	[]File		`xml:"file" json:"file"`
+	XMLName xml.Name `xml:"nzb" json:"-"`
+	Head    Head     `xml:"head" json:"head,omitempty"`
+	File    []File   `xml:"file" json:"file"`
 }
 
 // Head contains zero or more Meta structs.
 type Head struct {
-	XMLName	xml.Name 	`xml:"head" json:"-"`
+	XMLName	xml.Name `xml:"head" json:"-"`
 	Meta    []Meta      `xml:"meta" json:"meta,omitempty"`
 }
 
@@ -45,18 +45,18 @@ type Meta struct {
 
 // File describes a single file available for download.
 type File struct {
-	XMLName 	xml.Name	`xml:"file" json:"-"`
-	Poster  	string		`xml:"poster,attr" json:"poster"`
-	Date    	string		`xml:"date,attr" json:"date"`
-	Subject 	string		`xml:"subject,attr" json:"subject"`
-	Groups  	Groups		`xml:"groups" json:"group"`
-	Segments	Segments	`xml:"segments" json:"segment"`
+	XMLName  xml.Name `xml:"file" json:"-"`
+	Poster   string   `xml:"poster,attr" json:"poster"`
+	Date     string   `xml:"date,attr" json:"date"`
+	Subject  string   `xml:"subject,attr" json:"subject"`
+	Groups   Groups   `xml:"groups" json:"group"`
+	Segments Segments `xml:"segments" json:"segment"`
 }
 
 // Groups contains one or more Group structs.
 type Groups struct {
-	XMLName xml.Name	`xml:"groups" json:"-"`
-	Group   []Group		`xml:"group" json:"group"`
+	XMLName xml.Name `xml:"groups" json:"-"`
+	Group   []Group  `xml:"group" json:"group"`
 }
 
 // Group contains the name of a Usenet new group that the File is available from.
@@ -67,8 +67,8 @@ type Group struct {
 
 // Segments contains each Segment that may be downloaded.
 type Segments struct {
-	XMLName xml.Name	`xml:"segments" json:"-"`
-	Segment []Segment	`xml:"segment" json:"segment"`
+	XMLName xml.Name  `xml:"segments" json:"-"`
+	Segment []Segment `xml:"segment" json:"segment"`
 }
 
 // Segment contains information about a piece of the File that can be downloaded from a news group.

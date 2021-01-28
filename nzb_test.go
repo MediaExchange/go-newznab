@@ -14,7 +14,7 @@
    limitations under the License.
 */
 
-package model
+package newznab
 
 import (
 	"encoding/json"
@@ -24,7 +24,7 @@ import (
 )
 
 func TestShortFromXml(t *testing.T) {
-	original, err := ioutil.ReadFile("../testdata/nzb-short.xml")
+	original, err := ioutil.ReadFile("testdata/nzb-short.xml")
 	if err != nil {
 		t.Error(err)
 	}
@@ -37,7 +37,7 @@ func TestShortFromXml(t *testing.T) {
 	assert.With(t).That(len(nzb.File[0].Segments.Segment)).IsEqualTo(1)
 	assert.With(t).That(len(nzb.File[1].Segments.Segment)).IsEqualTo(1)
 
-	expected, err := ioutil.ReadFile("../testdata/nzb-short.json")
+	expected, err := ioutil.ReadFile("testdata/nzb-short.json")
 	if err != nil {
 		t.Error(err)
 	}
@@ -47,7 +47,7 @@ func TestShortFromXml(t *testing.T) {
 }
 
 func TestLongFromXml(t *testing.T) {
-	original, err := ioutil.ReadFile("../testdata/nzb-long.xml")
+	original, err := ioutil.ReadFile("testdata/nzb-long.xml")
 	if err != nil {
 		t.Error(err)
 	}
@@ -61,7 +61,7 @@ func TestLongFromXml(t *testing.T) {
 	assert.With(t).That(len(nzb.File[0].Segments.Segment)).IsEqualTo(1)
 	assert.With(t).That(len(nzb.File[54].Segments.Segment)).IsEqualTo(42)
 
-	expected, err := ioutil.ReadFile("../testdata/nzb-long.json")
+	expected, err := ioutil.ReadFile("testdata/nzb-long.json")
 	if err != nil {
 		t.Error(err)
 	}
