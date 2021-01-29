@@ -54,9 +54,12 @@ func main() {
 
 // help displays the program's sub-commands and arguments.
 func help() {
-	fmt.Println("Usage:\n")
-	fmt.Println("    newznab <command> [arguments]\n")
-	fmt.Println("The commands are:\n")
+	fmt.Println("Usage:")
+	fmt.Print('\n')
+	fmt.Println("    newznab <command> [arguments]")
+	fmt.Print('\n')
+	fmt.Println("The commands are:")
+	fmt.Print('\n')
 	fmt.Println("    search    Run a general search")
 	fmt.Print("\n")
 	flag.PrintDefaults()
