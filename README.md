@@ -8,7 +8,55 @@
 
 ## Usage
 
-This is a library intended to be used by another Go project.
+This library was purposely designed to be stateless so that it could more
+easily by used inside a web service. There are other implementation of NZB
+and Newznab clients that are initialized once with the API URL and access
+key. That works well if many calls will be made to the same service, but in
+a web service which is typically stateless, this pattern is difficult to
+work with.
+
+Instead, the API URL and access key are passed into each call, then the
+various parameters used to run a search are added as needed. The pattern used
+is called "functional options" and was first publicized for Go by Dave
+Cheney in an presentation titled "Functional options for friendly APIs."
+This has since been [published on his blog
+](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
+
+Newznab servers support running generalized and specific searches. Various
+parameters may be added to each to further restrict the results returned
+from the service.
+
+Search for "The Terminator" and restrict to HD (2k) and UHD (4k) media.
+
+```go
+res, err := newznab.Search("http://example.com/api", "my-api-key",
+	newznab.Query("The Terminator"),
+	newznab.Categories(newznab.Movies_HD, newznab.Movies_UHD))
+```
+
+Search for Season 2, Episode 22 of "The Office" in HD.
+
+```go
+res, err := newznab.TvSearch("http://example.com/api", "my-api-key",
+	newznab.Query("The Office"),
+	newznab.Categories(newznab.TV_HD),
+	newznab.Season(2),
+	newznab.Episode(22))
+```
+
+Search for "The Great Gatsby", 2013 release, by its IMDB ID, in UHD.
+
+```go
+res, err := newznab.MovieSearch("http://example.com/api", "my-api-key",
+	newznab.ImdbId(1343092),
+	newznab.Categories(newznab.Movies_UHD))
+```
+
+Download an NZB file:
+
+```go
+res, err := newznab.GetNzb("http://example.com/api", "my-api-key", "nzb-id")
+```
 
 ## Contributing
 
