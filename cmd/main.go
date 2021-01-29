@@ -29,12 +29,14 @@ var (
 	Url   string
 	Key   string
 	Query string
+	Id    string
 )
 
 func main() {
 	flag.StringVar(&Url, "url", "", "Full URL of the newznab API")
 	flag.StringVar(&Key, "key", "", "API key for the server")
 	flag.StringVar(&Query, "query", "", "Query to send")
+	flag.StringVar(&Id, "id", "", "ID of the NZB to download")
 	flag.Parse()
 
 	if len(os.Args) == 1 {
@@ -43,6 +45,8 @@ func main() {
 	}
 
 	switch strings.ToLower(os.Args[1]) {
+	case "get":
+		get()
 	case "help":
 		help()
 	case "search":
@@ -50,6 +54,28 @@ func main() {
 	default:
 		help()
 	}
+}
+
+// get downloads an NZB file.
+func get() {
+	_, err := validateAndParse()
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	if len(Id) == 0 {
+		fmt.Println("id is required")
+		return
+	}
+
+	res, err := newznab.GetNzb(Url, Key, Id)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	fmt.Println(res)
 }
 
 // help displays the program's sub-commands and arguments.
