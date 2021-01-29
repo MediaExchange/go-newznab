@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:newznab="http://www.newznab.com/DTD/2010/feeds/attributes/">
+    <channel>
+        <atom:link href="https://example.com/api?apikey=15ab7874ba5d4067acec51e1c2e39453&amp;extended=1&amp;q=Sword+Art+Online+Ordinal+Scale&amp;t=search" rel="self" type="application/rss+xml" />
+        <title>abNZB</title>
+        <description>abNZB Feed</description>
+        <link>https://example.com/</link>
+        <language>en-gb</language>
+        <webMaster>help@example.com (abNZB)</webMaster>
+        <category></category>
+        <image>
+            <url>https://example.com/templates/default/images/banner.jpg</url>
+            <title>abNZB</title>
+            <link>https://example.com/</link>
+            <description>Visit abNZB - </description>
+        </image>
+
+        <newznab:response offset="0" total="12" />
+        <item>
+            <title>Sword Art Online The Movie Ordinal Scale 1080p.x265.Tri-Audio.Ita.Eng.Jap  [Rady]</title>
+            <guid isPermaLink="true">https://example.com/details/cde1b96cd017143e716926cf5152bcc7</guid>
+            <link>https://example.com/getnzb/cde1b96cd017143e716926cf5152bcc7.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453</link>
+            <comments>https://example.com/details/cde1b96cd017143e716926cf5152bcc7#comments</comments>
+            <pubDate>Wed, 18 Nov 2020 03:42:40 +0000</pubDate>
+            <category>TV &gt; Anime</category>
+            <description>Sword Art Online The Movie Ordinal Scale 1080p.x265.Tri-Audio.Ita.Eng.Jap  [Rady]</description>
+            <enclosure url="https://example.com/getnzb/cde1b96cd017143e716926cf5152bcc7.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453" length="4405684482" type="application/x-nzb" />
+
+            <newznab:attr name="category" value="5000" />
+            <newznab:attr name="category" value="5070" />
+
+            <newznab:attr name="size" value="4405684482" />
+            <newznab:attr name="guid" value="cde1b96cd017143e716926cf5152bcc7" />
+
+            <newznab:attr name="files" value="9" />
+            <newznab:attr name="poster" value="Anime Tosho &lt;usenet.bot@animetosho.org&gt;" />
+            <newznab:attr name="grabs" value="1" />
+            <newznab:attr name="comments" value="0" />
+            <newznab:attr name="password" value="0" />
+            <newznab:attr name="nfo" value="0" />
+            <newznab:attr name="usenetdate" value="Tue, 17 Nov 2020 23:41:48 +0000" />
+
+        </item>
+        <item>
+            <title>[Mysteria] Sword Art Online - Ordinal Scale (BD 1080p HEVC FLAC) [E11884BA]</title>
+            <guid isPermaLink="true">https://example.com/details/3d80f506553df1ec084d1133e21f485d</guid>
+            <link>https://example.com/getnzb/3d80f506553df1ec084d1133e21f485d.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453</link>
+            <comments>https://example.com/details/3d80f506553df1ec084d1133e21f485d#comments</comments>
+            <pubDate>Wed, 23 Sep 2020 01:39:00 +0100</pubDate>
+            <category>TV &gt; Anime</category>
+            <description>[Mysteria] Sword Art Online - Ordinal Scale (BD 1080p HEVC FLAC) [E11884BA]</description>
+            <enclosure url="https://example.com/getnzb/3d80f506553df1ec084d1133e21f485d.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453" length="12494661521" type="application/x-nzb" />
+
+            <newznab:attr name="category" value="5000" />
+            <newznab:attr name="category" value="5070" />
+
+            <newznab:attr name="size" value="12494661521" />
+            <newznab:attr name="guid" value="3d80f506553df1ec084d1133e21f485d" />
+
+            <newznab:attr name="files" value="9" />
+            <newznab:attr name="poster" value="Anime Tosho &lt;usenet.bot@animetosho.org&gt;" />
+            <newznab:attr name="grabs" value="2" />
+            <newznab:attr name="comments" value="0" />
+            <newznab:attr name="password" value="0" />
+            <newznab:attr name="nfo" value="0" />
+            <newznab:attr name="usenetdate" value="Tue, 22 Sep 2020 21:35:54 +0100" />
+
+        </item>
+        <item>
+            <title>[Salieri] Sword Art Online - Movie 01 (Ordinal Scale) (BD 1080p) (HDR) (HEVC x265 10bit)(Dual-Audio)(Eng-Subs)</title>
+            <guid isPermaLink="true">https://example.com/details/1dfc9920b222af65d29e43265e264a22</guid>
+            <link>https://example.com/getnzb/1dfc9920b222af65d29e43265e264a22.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453</link>
+            <comments>https://example.com/details/1dfc9920b222af65d29e43265e264a22#comments</comments>
+            <pubDate>Sun, 16 Aug 2020 23:45:38 +0100</pubDate>
+            <category>TV &gt; Anime</category>
+            <description>[Salieri] Sword Art Online - Movie 01 (Ordinal Scale) (BD 1080p) (HDR) (HEVC x265 10bit)(Dual-Audio)(Eng-Subs)</description>
+            <enclosure url="https://example.com/getnzb/1dfc9920b222af65d29e43265e264a22.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453" length="5181553170" type="application/x-nzb" />
+
+            <newznab:attr name="category" value="5000" />
+            <newznab:attr name="category" value="5070" />
+
+            <newznab:attr name="size" value="5181553170" />
+            <newznab:attr name="guid" value="1dfc9920b222af65d29e43265e264a22" />
+
+            <newznab:attr name="files" value="9" />
+            <newznab:attr name="poster" value="Anime Tosho &lt;usenet.bot@animetosho.org&gt;" />
+            <newznab:attr name="grabs" value="1" />
+            <newznab:attr name="comments" value="0" />
+            <newznab:attr name="password" value="0" />
+            <newznab:attr name="nfo" value="0" />
+            <newznab:attr name="usenetdate" value="Sun, 16 Aug 2020 19:43:07 +0100" />
+
+        </item>
+        <item>
+            <title>[Mysteria] Sword Art Online- Ordinal Scale</title>
+            <guid isPermaLink="true">https://example.com/details/bb5212b02203930feaddea4a721de5d0</guid>
+            <link>https://example.com/getnzb/bb5212b02203930feaddea4a721de5d0.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453</link>
+            <comments>https://example.com/details/bb5212b02203930feaddea4a721de5d0#comments</comments>
+            <pubDate>Tue, 21 Jul 2020 23:12:20 +0100</pubDate>
+            <category>TV &gt; Anime</category>
+            <description>[Mysteria] Sword Art Online- Ordinal Scale</description>
+            <enclosure url="https://example.com/getnzb/bb5212b02203930feaddea4a721de5d0.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453" length="11669311412" type="application/x-nzb" />
+
+            <newznab:attr name="category" value="5000" />
+            <newznab:attr name="category" value="5070" />
+
+            <newznab:attr name="size" value="11669311412" />
+            <newznab:attr name="guid" value="bb5212b02203930feaddea4a721de5d0" />
+
+            <newznab:attr name="files" value="9" />
+            <newznab:attr name="poster" value="Anime Tosho &lt;usenet.bot@animetosho.org&gt;" />
+            <newznab:attr name="grabs" value="1" />
+            <newznab:attr name="comments" value="0" />
+            <newznab:attr name="password" value="0" />
+            <newznab:attr name="nfo" value="0" />
+            <newznab:attr name="usenetdate" value="Tue, 21 Jul 2020 23:07:03 +0100" />
+
+        </item>
+        <item>
+            <title>[Kaya] Sword Art Online Ordinal Scale (BD 1080P X.265 AAC)[DD0B9787]</title>
+            <guid isPermaLink="true">https://example.com/details/5768e858de0be1f0490bae73706e2f13</guid>
+            <link>https://example.com/getnzb/5768e858de0be1f0490bae73706e2f13.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453</link>
+            <comments>https://example.com/details/5768e858de0be1f0490bae73706e2f13#comments</comments>
+            <pubDate>Thu, 05 Mar 2020 06:39:58 +0000</pubDate>
+            <category>TV &gt; Anime</category>
+            <description>[Kaya] Sword Art Online Ordinal Scale (BD 1080P X.265 AAC)[DD0B9787]</description>
+            <enclosure url="https://example.com/getnzb/5768e858de0be1f0490bae73706e2f13.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453" length="6893858460" type="application/x-nzb" />
+
+            <newznab:attr name="category" value="5000" />
+            <newznab:attr name="category" value="5070" />
+
+            <newznab:attr name="size" value="6893858460" />
+            <newznab:attr name="guid" value="5768e858de0be1f0490bae73706e2f13" />
+
+            <newznab:attr name="files" value="9" />
+            <newznab:attr name="poster" value="Anime Tosho &lt;usenet.bot@animetosho.org&gt;" />
+            <newznab:attr name="grabs" value="1" />
+            <newznab:attr name="comments" value="0" />
+            <newznab:attr name="password" value="0" />
+            <newznab:attr name="nfo" value="0" />
+            <newznab:attr name="usenetdate" value="Thu, 05 Mar 2020 02:36:50 +0000" />
+
+        </item>
+        <item>
+            <title>[zza] Sword Art Online - Ordinal Scale [1080p.x265]</title>
+            <guid isPermaLink="true">https://example.com/details/c28346182057f74e989bb73a8829fc0e</guid>
+            <link>https://example.com/getnzb/c28346182057f74e989bb73a8829fc0e.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453</link>
+            <comments>https://example.com/details/c28346182057f74e989bb73a8829fc0e#comments</comments>
+            <pubDate>Fri, 28 Feb 2020 16:55:49 +0000</pubDate>
+            <category>TV &gt; Anime</category>
+            <description>[zza] Sword Art Online - Ordinal Scale [1080p.x265]</description>
+            <enclosure url="https://example.com/getnzb/c28346182057f74e989bb73a8829fc0e.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453" length="1678888548" type="application/x-nzb" />
+
+            <newznab:attr name="category" value="5000" />
+            <newznab:attr name="category" value="5070" />
+
+            <newznab:attr name="size" value="1678888548" />
+            <newznab:attr name="guid" value="c28346182057f74e989bb73a8829fc0e" />
+
+            <newznab:attr name="files" value="8" />
+            <newznab:attr name="poster" value="Anime Tosho &lt;usenet.bot@animetosho.org&gt;" />
+            <newznab:attr name="grabs" value="0" />
+            <newznab:attr name="comments" value="0" />
+            <newznab:attr name="password" value="0" />
+            <newznab:attr name="nfo" value="0" />
+            <newznab:attr name="usenetdate" value="Fri, 28 Feb 2020 12:51:25 +0000" />
+
+        </item>
+        <item>
+            <title>[SpaceFish] Sword Art Online: Ordinal Scale - Movie [BD][720p][AAC]</title>
+            <guid isPermaLink="true">https://example.com/details/99c90985e7d199eebcfa86073d70500f</guid>
+            <link>https://example.com/getnzb/99c90985e7d199eebcfa86073d70500f.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453</link>
+            <comments>https://example.com/details/99c90985e7d199eebcfa86073d70500f#comments</comments>
+            <pubDate>Sat, 15 Feb 2020 02:51:24 +0000</pubDate>
+            <category>TV &gt; Anime</category>
+            <description>[SpaceFish] Sword Art Online: Ordinal Scale - Movie [BD][720p][AAC]</description>
+            <enclosure url="https://example.com/getnzb/99c90985e7d199eebcfa86073d70500f.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453" length="4366281949" type="application/x-nzb" />
+
+            <newznab:attr name="category" value="5000" />
+            <newznab:attr name="category" value="5070" />
+
+            <newznab:attr name="size" value="4366281949" />
+            <newznab:attr name="guid" value="99c90985e7d199eebcfa86073d70500f" />
+
+            <newznab:attr name="files" value="9" />
+            <newznab:attr name="poster" value="Anime Tosho &lt;usenet.bot@animetosho.org&gt;" />
+            <newznab:attr name="grabs" value="0" />
+            <newznab:attr name="comments" value="0" />
+            <newznab:attr name="password" value="0" />
+            <newznab:attr name="nfo" value="0" />
+            <newznab:attr name="usenetdate" value="Fri, 14 Feb 2020 21:13:36 +0000" />
+
+        </item>
+        <item>
+            <title>[Judas] Sword Art Online - Movie 01 (Ordinal Scale) [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]</title>
+            <guid isPermaLink="true">https://example.com/details/36ecea4ec0eb2d3da9941e759c0fbb08</guid>
+            <link>https://example.com/getnzb/36ecea4ec0eb2d3da9941e759c0fbb08.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453</link>
+            <comments>https://example.com/details/36ecea4ec0eb2d3da9941e759c0fbb08#comments</comments>
+            <pubDate>Sun, 20 Oct 2019 13:28:29 +0100</pubDate>
+            <category>TV &gt; Anime</category>
+            <description>[Judas] Sword Art Online - Movie 01 (Ordinal Scale) [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]</description>
+            <enclosure url="https://example.com/getnzb/36ecea4ec0eb2d3da9941e759c0fbb08.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453" length="1860662627" type="application/x-nzb" />
+
+            <newznab:attr name="category" value="5000" />
+            <newznab:attr name="category" value="5070" />
+
+            <newznab:attr name="size" value="1860662627" />
+            <newznab:attr name="guid" value="36ecea4ec0eb2d3da9941e759c0fbb08" />
+
+            <newznab:attr name="files" value="8" />
+            <newznab:attr name="poster" value="Anime Tosho &lt;usenet.bot@animetosho.org&gt;" />
+            <newznab:attr name="grabs" value="1" />
+            <newznab:attr name="comments" value="0" />
+            <newznab:attr name="password" value="0" />
+            <newznab:attr name="nfo" value="0" />
+            <newznab:attr name="usenetdate" value="Sun, 20 Oct 2019 09:21:30 +0100" />
+
+        </item>
+        <item>
+            <title>[Natsu-Raws] Sword Art Online - Ordinal Scale [BD][1080P][AAC 2.0+5.1][HEVC][7F5E2F50]</title>
+            <guid isPermaLink="true">https://example.com/details/7a6bab0596f775bcf0fd6cd8754089ec</guid>
+            <link>https://example.com/getnzb/7a6bab0596f775bcf0fd6cd8754089ec.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453</link>
+            <comments>https://example.com/details/7a6bab0596f775bcf0fd6cd8754089ec#comments</comments>
+            <pubDate>Mon, 15 Apr 2019 04:43:19 +0100</pubDate>
+            <category>TV &gt; Anime</category>
+            <description>[Natsu-Raws] Sword Art Online - Ordinal Scale [BD][1080P][AAC 2.0+5.1][HEVC][7F5E2F50]</description>
+            <enclosure url="https://example.com/getnzb/7a6bab0596f775bcf0fd6cd8754089ec.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453" length="3230949150" type="application/x-nzb" />
+
+            <newznab:attr name="category" value="5000" />
+            <newznab:attr name="category" value="5070" />
+
+            <newznab:attr name="size" value="3230949150" />
+            <newznab:attr name="guid" value="7a6bab0596f775bcf0fd6cd8754089ec" />
+
+            <newznab:attr name="files" value="9" />
+            <newznab:attr name="poster" value="Anime Tosho &lt;usenet.bot@animetosho.org&gt;" />
+            <newznab:attr name="grabs" value="1" />
+            <newznab:attr name="comments" value="0" />
+            <newznab:attr name="password" value="0" />
+            <newznab:attr name="nfo" value="0" />
+            <newznab:attr name="usenetdate" value="Mon, 15 Apr 2019 00:38:55 +0100" />
+
+        </item>
+        <item>
+            <title>[Koten_Gars] Sword Art Online -The Movie- Ordinal Scale v2 [JP.BD][Hi10][1080p][DTS-HD MA] [456818E3]</title>
+            <guid isPermaLink="true">https://example.com/details/a1fbb7259f1fc5f3600b02a404651dbf</guid>
+            <link>https://example.com/getnzb/a1fbb7259f1fc5f3600b02a404651dbf.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453</link>
+            <comments>https://example.com/details/a1fbb7259f1fc5f3600b02a404651dbf#comments</comments>
+            <pubDate>Tue, 11 Dec 2018 21:34:12 +0000</pubDate>
+            <category>TV &gt; Anime</category>
+            <description>[Koten_Gars] Sword Art Online -The Movie- Ordinal Scale v2 [JP.BD][Hi10][1080p][DTS-HD MA] [456818E3]</description>
+            <enclosure url="https://example.com/getnzb/a1fbb7259f1fc5f3600b02a404651dbf.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453" length="22298422005" type="application/x-nzb" />
+
+            <newznab:attr name="category" value="5000" />
+            <newznab:attr name="category" value="5070" />
+
+            <newznab:attr name="size" value="22298422005" />
+            <newznab:attr name="guid" value="a1fbb7259f1fc5f3600b02a404651dbf" />
+
+            <newznab:attr name="files" value="106" />
+            <newznab:attr name="poster" value="TheChup@test.com (TheChup)" />
+            <newznab:attr name="grabs" value="4" />
+            <newznab:attr name="comments" value="0" />
+            <newznab:attr name="password" value="0" />
+            <newznab:attr name="nfo" value="0" />
+            <newznab:attr name="usenetdate" value="Tue, 11 Dec 2018 21:29:42 +0000" />
+
+        </item>
+        <item>
+            <title>Sword.Art.Online.Ordinal.Scale.2017.1080p.Blu-Ray.10-Bit.Dual-Audio.DTS-HD.x265-iAHD</title>
+            <guid isPermaLink="true">https://example.com/details/290cc31653f41fe700a8b57e267d354a</guid>
+            <link>https://example.com/getnzb/290cc31653f41fe700a8b57e267d354a.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453</link>
+            <comments>https://example.com/details/290cc31653f41fe700a8b57e267d354a#comments</comments>
+            <pubDate>Sun, 09 Dec 2018 22:15:29 +0000</pubDate>
+            <category>TV &gt; Anime</category>
+            <description>Sword.Art.Online.Ordinal.Scale.2017.1080p.Blu-Ray.10-Bit.Dual-Audio.DTS-HD.x265-iAHD</description>
+            <enclosure url="https://example.com/getnzb/290cc31653f41fe700a8b57e267d354a.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453" length="16045804540" type="application/x-nzb" />
+
+            <newznab:attr name="category" value="5000" />
+            <newznab:attr name="category" value="5070" />
+
+            <newznab:attr name="size" value="16045804540" />
+            <newznab:attr name="guid" value="290cc31653f41fe700a8b57e267d354a" />
+
+            <newznab:attr name="files" value="9" />
+            <newznab:attr name="poster" value="Anime Tosho &lt;usenet.bot@animetosho.org&gt;" />
+            <newznab:attr name="grabs" value="1" />
+            <newznab:attr name="comments" value="0" />
+            <newznab:attr name="password" value="0" />
+            <newznab:attr name="nfo" value="0" />
+            <newznab:attr name="usenetdate" value="Sun, 09 Dec 2018 22:05:16 +0000" />
+
+        </item>
+        <item>
+            <title>[SmugCat] Sword Art Online the Movie -Ordinal Scale- [BD 1080p 10bit FLAC] [A180D8F5]</title>
+            <guid isPermaLink="true">https://example.com/details/5f5a5f6777c67a2e255fbc2aa0d647f2</guid>
+            <link>https://example.com/getnzb/5f5a5f6777c67a2e255fbc2aa0d647f2.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453</link>
+            <comments>https://example.com/details/5f5a5f6777c67a2e255fbc2aa0d647f2#comments</comments>
+            <pubDate>Tue, 06 Nov 2018 08:00:15 +0000</pubDate>
+            <category>TV &gt; Anime</category>
+            <description>[SmugCat] Sword Art Online the Movie -Ordinal Scale- [BD 1080p 10bit FLAC] [A180D8F5]</description>
+            <enclosure url="https://example.com/getnzb/5f5a5f6777c67a2e255fbc2aa0d647f2.nzb&amp;i=38759&amp;r=15ab7874ba5d4067acec51e1c2e39453" length="19258792800" type="application/x-nzb" />
+
+            <newznab:attr name="category" value="5000" />
+            <newznab:attr name="category" value="5070" />
+
+            <newznab:attr name="size" value="19258792800" />
+            <newznab:attr name="guid" value="5f5a5f6777c67a2e255fbc2aa0d647f2" />
+
+            <newznab:attr name="files" value="181" />
+            <newznab:attr name="poster" value="gR6i8eToiBu1BAFIWv@3a7d4A3rwkbLB3.Tc5M" />
+            <newznab:attr name="grabs" value="2" />
+            <newznab:attr name="comments" value="0" />
+            <newznab:attr name="password" value="0" />
+            <newznab:attr name="nfo" value="0" />
+            <newznab:attr name="usenetdate" value="Tue, 06 Nov 2018 07:51:14 +0000" />
+
+        </item>
+
+
+    </channel>
+</rss>
+
+<!-- newznab search -url https://example.com/api -key 15ab7874ba5d4067acec51e1c2e39453 -query 'Sword Art Online Ordinal Scale' -->

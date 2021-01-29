@@ -1,0 +1,786 @@
+{
+  "Version": "2.0",
+  "Atom": "http://www.w3.org/2005/Atom",
+  "Newznab": "http://www.newznab.com/DTD/2010/feeds/attributes/",
+  "Channel": {
+    "Link": {
+      "Text": "https://example.com/",
+      "Href": "https://example.com/api?apikey=15ab7874ba5d4067acec51e1c2e39453\u0026extended=1\u0026q=Sword+Art+Online+Ordinal+Scale\u0026t=search",
+      "Rel": "self",
+      "Type": "application/rss+xml"
+    },
+    "Title": "abNZB",
+    "Description": "abNZB Feed",
+    "Language": "en-gb",
+    "WebMaster": "help@example.com (abNZB)",
+    "Category": "",
+    "Image": {
+      "URL": "https://example.com/templates/default/images/banner.jpg",
+      "Title": "abNZB",
+      "Link": "https://example.com/",
+      "Description": "Visit abNZB - "
+    },
+    "Response": {
+      "Offset": "0",
+      "Total": "12"
+    },
+    "Item": [
+      {
+        "Title": "Sword Art Online The Movie Ordinal Scale 1080p.x265.Tri-Audio.Ita.Eng.Jap  [Rady]",
+        "Guid": {
+          "Text": "https://example.com/details/cde1b96cd017143e716926cf5152bcc7",
+          "IsPermaLink": "true"
+        },
+        "Link": "https://example.com/getnzb/cde1b96cd017143e716926cf5152bcc7.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+        "Comments": "https://example.com/details/cde1b96cd017143e716926cf5152bcc7#comments",
+        "PubDate": "Wed, 18 Nov 2020 03:42:40 +0000",
+        "Category": "TV \u003e Anime",
+        "Description": "Sword Art Online The Movie Ordinal Scale 1080p.x265.Tri-Audio.Ita.Eng.Jap  [Rady]",
+        "Enclosure": {
+          "URL": "https://example.com/getnzb/cde1b96cd017143e716926cf5152bcc7.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+          "Length": "4405684482",
+          "Type": "application/x-nzb"
+        },
+        "Attr": [
+          {
+            "Name": "category",
+            "Value": "5000"
+          },
+          {
+            "Name": "category",
+            "Value": "5070"
+          },
+          {
+            "Name": "size",
+            "Value": "4405684482"
+          },
+          {
+            "Name": "guid",
+            "Value": "cde1b96cd017143e716926cf5152bcc7"
+          },
+          {
+            "Name": "files",
+            "Value": "9"
+          },
+          {
+            "Name": "poster",
+            "Value": "Anime Tosho \u003cusenet.bot@animetosho.org\u003e"
+          },
+          {
+            "Name": "grabs",
+            "Value": "1"
+          },
+          {
+            "Name": "comments",
+            "Value": "0"
+          },
+          {
+            "Name": "password",
+            "Value": "0"
+          },
+          {
+            "Name": "nfo",
+            "Value": "0"
+          },
+          {
+            "Name": "usenetdate",
+            "Value": "Tue, 17 Nov 2020 23:41:48 +0000"
+          }
+        ]
+      },
+      {
+        "Title": "[Mysteria] Sword Art Online - Ordinal Scale (BD 1080p HEVC FLAC) [E11884BA]",
+        "Guid": {
+          "Text": "https://example.com/details/3d80f506553df1ec084d1133e21f485d",
+          "IsPermaLink": "true"
+        },
+        "Link": "https://example.com/getnzb/3d80f506553df1ec084d1133e21f485d.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+        "Comments": "https://example.com/details/3d80f506553df1ec084d1133e21f485d#comments",
+        "PubDate": "Wed, 23 Sep 2020 01:39:00 +0100",
+        "Category": "TV \u003e Anime",
+        "Description": "[Mysteria] Sword Art Online - Ordinal Scale (BD 1080p HEVC FLAC) [E11884BA]",
+        "Enclosure": {
+          "URL": "https://example.com/getnzb/3d80f506553df1ec084d1133e21f485d.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+          "Length": "12494661521",
+          "Type": "application/x-nzb"
+        },
+        "Attr": [
+          {
+            "Name": "category",
+            "Value": "5000"
+          },
+          {
+            "Name": "category",
+            "Value": "5070"
+          },
+          {
+            "Name": "size",
+            "Value": "12494661521"
+          },
+          {
+            "Name": "guid",
+            "Value": "3d80f506553df1ec084d1133e21f485d"
+          },
+          {
+            "Name": "files",
+            "Value": "9"
+          },
+          {
+            "Name": "poster",
+            "Value": "Anime Tosho \u003cusenet.bot@animetosho.org\u003e"
+          },
+          {
+            "Name": "grabs",
+            "Value": "2"
+          },
+          {
+            "Name": "comments",
+            "Value": "0"
+          },
+          {
+            "Name": "password",
+            "Value": "0"
+          },
+          {
+            "Name": "nfo",
+            "Value": "0"
+          },
+          {
+            "Name": "usenetdate",
+            "Value": "Tue, 22 Sep 2020 21:35:54 +0100"
+          }
+        ]
+      },
+      {
+        "Title": "[Salieri] Sword Art Online - Movie 01 (Ordinal Scale) (BD 1080p) (HDR) (HEVC x265 10bit)(Dual-Audio)(Eng-Subs)",
+        "Guid": {
+          "Text": "https://example.com/details/1dfc9920b222af65d29e43265e264a22",
+          "IsPermaLink": "true"
+        },
+        "Link": "https://example.com/getnzb/1dfc9920b222af65d29e43265e264a22.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+        "Comments": "https://example.com/details/1dfc9920b222af65d29e43265e264a22#comments",
+        "PubDate": "Sun, 16 Aug 2020 23:45:38 +0100",
+        "Category": "TV \u003e Anime",
+        "Description": "[Salieri] Sword Art Online - Movie 01 (Ordinal Scale) (BD 1080p) (HDR) (HEVC x265 10bit)(Dual-Audio)(Eng-Subs)",
+        "Enclosure": {
+          "URL": "https://example.com/getnzb/1dfc9920b222af65d29e43265e264a22.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+          "Length": "5181553170",
+          "Type": "application/x-nzb"
+        },
+        "Attr": [
+          {
+            "Name": "category",
+            "Value": "5000"
+          },
+          {
+            "Name": "category",
+            "Value": "5070"
+          },
+          {
+            "Name": "size",
+            "Value": "5181553170"
+          },
+          {
+            "Name": "guid",
+            "Value": "1dfc9920b222af65d29e43265e264a22"
+          },
+          {
+            "Name": "files",
+            "Value": "9"
+          },
+          {
+            "Name": "poster",
+            "Value": "Anime Tosho \u003cusenet.bot@animetosho.org\u003e"
+          },
+          {
+            "Name": "grabs",
+            "Value": "1"
+          },
+          {
+            "Name": "comments",
+            "Value": "0"
+          },
+          {
+            "Name": "password",
+            "Value": "0"
+          },
+          {
+            "Name": "nfo",
+            "Value": "0"
+          },
+          {
+            "Name": "usenetdate",
+            "Value": "Sun, 16 Aug 2020 19:43:07 +0100"
+          }
+        ]
+      },
+      {
+        "Title": "[Mysteria] Sword Art Online- Ordinal Scale",
+        "Guid": {
+          "Text": "https://example.com/details/bb5212b02203930feaddea4a721de5d0",
+          "IsPermaLink": "true"
+        },
+        "Link": "https://example.com/getnzb/bb5212b02203930feaddea4a721de5d0.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+        "Comments": "https://example.com/details/bb5212b02203930feaddea4a721de5d0#comments",
+        "PubDate": "Tue, 21 Jul 2020 23:12:20 +0100",
+        "Category": "TV \u003e Anime",
+        "Description": "[Mysteria] Sword Art Online- Ordinal Scale",
+        "Enclosure": {
+          "URL": "https://example.com/getnzb/bb5212b02203930feaddea4a721de5d0.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+          "Length": "11669311412",
+          "Type": "application/x-nzb"
+        },
+        "Attr": [
+          {
+            "Name": "category",
+            "Value": "5000"
+          },
+          {
+            "Name": "category",
+            "Value": "5070"
+          },
+          {
+            "Name": "size",
+            "Value": "11669311412"
+          },
+          {
+            "Name": "guid",
+            "Value": "bb5212b02203930feaddea4a721de5d0"
+          },
+          {
+            "Name": "files",
+            "Value": "9"
+          },
+          {
+            "Name": "poster",
+            "Value": "Anime Tosho \u003cusenet.bot@animetosho.org\u003e"
+          },
+          {
+            "Name": "grabs",
+            "Value": "1"
+          },
+          {
+            "Name": "comments",
+            "Value": "0"
+          },
+          {
+            "Name": "password",
+            "Value": "0"
+          },
+          {
+            "Name": "nfo",
+            "Value": "0"
+          },
+          {
+            "Name": "usenetdate",
+            "Value": "Tue, 21 Jul 2020 23:07:03 +0100"
+          }
+        ]
+      },
+      {
+        "Title": "[Kaya] Sword Art Online Ordinal Scale (BD 1080P X.265 AAC)[DD0B9787]",
+        "Guid": {
+          "Text": "https://example.com/details/5768e858de0be1f0490bae73706e2f13",
+          "IsPermaLink": "true"
+        },
+        "Link": "https://example.com/getnzb/5768e858de0be1f0490bae73706e2f13.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+        "Comments": "https://example.com/details/5768e858de0be1f0490bae73706e2f13#comments",
+        "PubDate": "Thu, 05 Mar 2020 06:39:58 +0000",
+        "Category": "TV \u003e Anime",
+        "Description": "[Kaya] Sword Art Online Ordinal Scale (BD 1080P X.265 AAC)[DD0B9787]",
+        "Enclosure": {
+          "URL": "https://example.com/getnzb/5768e858de0be1f0490bae73706e2f13.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+          "Length": "6893858460",
+          "Type": "application/x-nzb"
+        },
+        "Attr": [
+          {
+            "Name": "category",
+            "Value": "5000"
+          },
+          {
+            "Name": "category",
+            "Value": "5070"
+          },
+          {
+            "Name": "size",
+            "Value": "6893858460"
+          },
+          {
+            "Name": "guid",
+            "Value": "5768e858de0be1f0490bae73706e2f13"
+          },
+          {
+            "Name": "files",
+            "Value": "9"
+          },
+          {
+            "Name": "poster",
+            "Value": "Anime Tosho \u003cusenet.bot@animetosho.org\u003e"
+          },
+          {
+            "Name": "grabs",
+            "Value": "1"
+          },
+          {
+            "Name": "comments",
+            "Value": "0"
+          },
+          {
+            "Name": "password",
+            "Value": "0"
+          },
+          {
+            "Name": "nfo",
+            "Value": "0"
+          },
+          {
+            "Name": "usenetdate",
+            "Value": "Thu, 05 Mar 2020 02:36:50 +0000"
+          }
+        ]
+      },
+      {
+        "Title": "[zza] Sword Art Online - Ordinal Scale [1080p.x265]",
+        "Guid": {
+          "Text": "https://example.com/details/c28346182057f74e989bb73a8829fc0e",
+          "IsPermaLink": "true"
+        },
+        "Link": "https://example.com/getnzb/c28346182057f74e989bb73a8829fc0e.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+        "Comments": "https://example.com/details/c28346182057f74e989bb73a8829fc0e#comments",
+        "PubDate": "Fri, 28 Feb 2020 16:55:49 +0000",
+        "Category": "TV \u003e Anime",
+        "Description": "[zza] Sword Art Online - Ordinal Scale [1080p.x265]",
+        "Enclosure": {
+          "URL": "https://example.com/getnzb/c28346182057f74e989bb73a8829fc0e.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+          "Length": "1678888548",
+          "Type": "application/x-nzb"
+        },
+        "Attr": [
+          {
+            "Name": "category",
+            "Value": "5000"
+          },
+          {
+            "Name": "category",
+            "Value": "5070"
+          },
+          {
+            "Name": "size",
+            "Value": "1678888548"
+          },
+          {
+            "Name": "guid",
+            "Value": "c28346182057f74e989bb73a8829fc0e"
+          },
+          {
+            "Name": "files",
+            "Value": "8"
+          },
+          {
+            "Name": "poster",
+            "Value": "Anime Tosho \u003cusenet.bot@animetosho.org\u003e"
+          },
+          {
+            "Name": "grabs",
+            "Value": "0"
+          },
+          {
+            "Name": "comments",
+            "Value": "0"
+          },
+          {
+            "Name": "password",
+            "Value": "0"
+          },
+          {
+            "Name": "nfo",
+            "Value": "0"
+          },
+          {
+            "Name": "usenetdate",
+            "Value": "Fri, 28 Feb 2020 12:51:25 +0000"
+          }
+        ]
+      },
+      {
+        "Title": "[SpaceFish] Sword Art Online: Ordinal Scale - Movie [BD][720p][AAC]",
+        "Guid": {
+          "Text": "https://example.com/details/99c90985e7d199eebcfa86073d70500f",
+          "IsPermaLink": "true"
+        },
+        "Link": "https://example.com/getnzb/99c90985e7d199eebcfa86073d70500f.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+        "Comments": "https://example.com/details/99c90985e7d199eebcfa86073d70500f#comments",
+        "PubDate": "Sat, 15 Feb 2020 02:51:24 +0000",
+        "Category": "TV \u003e Anime",
+        "Description": "[SpaceFish] Sword Art Online: Ordinal Scale - Movie [BD][720p][AAC]",
+        "Enclosure": {
+          "URL": "https://example.com/getnzb/99c90985e7d199eebcfa86073d70500f.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+          "Length": "4366281949",
+          "Type": "application/x-nzb"
+        },
+        "Attr": [
+          {
+            "Name": "category",
+            "Value": "5000"
+          },
+          {
+            "Name": "category",
+            "Value": "5070"
+          },
+          {
+            "Name": "size",
+            "Value": "4366281949"
+          },
+          {
+            "Name": "guid",
+            "Value": "99c90985e7d199eebcfa86073d70500f"
+          },
+          {
+            "Name": "files",
+            "Value": "9"
+          },
+          {
+            "Name": "poster",
+            "Value": "Anime Tosho \u003cusenet.bot@animetosho.org\u003e"
+          },
+          {
+            "Name": "grabs",
+            "Value": "0"
+          },
+          {
+            "Name": "comments",
+            "Value": "0"
+          },
+          {
+            "Name": "password",
+            "Value": "0"
+          },
+          {
+            "Name": "nfo",
+            "Value": "0"
+          },
+          {
+            "Name": "usenetdate",
+            "Value": "Fri, 14 Feb 2020 21:13:36 +0000"
+          }
+        ]
+      },
+      {
+        "Title": "[Judas] Sword Art Online - Movie 01 (Ordinal Scale) [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]",
+        "Guid": {
+          "Text": "https://example.com/details/36ecea4ec0eb2d3da9941e759c0fbb08",
+          "IsPermaLink": "true"
+        },
+        "Link": "https://example.com/getnzb/36ecea4ec0eb2d3da9941e759c0fbb08.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+        "Comments": "https://example.com/details/36ecea4ec0eb2d3da9941e759c0fbb08#comments",
+        "PubDate": "Sun, 20 Oct 2019 13:28:29 +0100",
+        "Category": "TV \u003e Anime",
+        "Description": "[Judas] Sword Art Online - Movie 01 (Ordinal Scale) [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]",
+        "Enclosure": {
+          "URL": "https://example.com/getnzb/36ecea4ec0eb2d3da9941e759c0fbb08.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+          "Length": "1860662627",
+          "Type": "application/x-nzb"
+        },
+        "Attr": [
+          {
+            "Name": "category",
+            "Value": "5000"
+          },
+          {
+            "Name": "category",
+            "Value": "5070"
+          },
+          {
+            "Name": "size",
+            "Value": "1860662627"
+          },
+          {
+            "Name": "guid",
+            "Value": "36ecea4ec0eb2d3da9941e759c0fbb08"
+          },
+          {
+            "Name": "files",
+            "Value": "8"
+          },
+          {
+            "Name": "poster",
+            "Value": "Anime Tosho \u003cusenet.bot@animetosho.org\u003e"
+          },
+          {
+            "Name": "grabs",
+            "Value": "1"
+          },
+          {
+            "Name": "comments",
+            "Value": "0"
+          },
+          {
+            "Name": "password",
+            "Value": "0"
+          },
+          {
+            "Name": "nfo",
+            "Value": "0"
+          },
+          {
+            "Name": "usenetdate",
+            "Value": "Sun, 20 Oct 2019 09:21:30 +0100"
+          }
+        ]
+      },
+      {
+        "Title": "[Natsu-Raws] Sword Art Online - Ordinal Scale [BD][1080P][AAC 2.0+5.1][HEVC][7F5E2F50]",
+        "Guid": {
+          "Text": "https://example.com/details/7a6bab0596f775bcf0fd6cd8754089ec",
+          "IsPermaLink": "true"
+        },
+        "Link": "https://example.com/getnzb/7a6bab0596f775bcf0fd6cd8754089ec.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+        "Comments": "https://example.com/details/7a6bab0596f775bcf0fd6cd8754089ec#comments",
+        "PubDate": "Mon, 15 Apr 2019 04:43:19 +0100",
+        "Category": "TV \u003e Anime",
+        "Description": "[Natsu-Raws] Sword Art Online - Ordinal Scale [BD][1080P][AAC 2.0+5.1][HEVC][7F5E2F50]",
+        "Enclosure": {
+          "URL": "https://example.com/getnzb/7a6bab0596f775bcf0fd6cd8754089ec.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+          "Length": "3230949150",
+          "Type": "application/x-nzb"
+        },
+        "Attr": [
+          {
+            "Name": "category",
+            "Value": "5000"
+          },
+          {
+            "Name": "category",
+            "Value": "5070"
+          },
+          {
+            "Name": "size",
+            "Value": "3230949150"
+          },
+          {
+            "Name": "guid",
+            "Value": "7a6bab0596f775bcf0fd6cd8754089ec"
+          },
+          {
+            "Name": "files",
+            "Value": "9"
+          },
+          {
+            "Name": "poster",
+            "Value": "Anime Tosho \u003cusenet.bot@animetosho.org\u003e"
+          },
+          {
+            "Name": "grabs",
+            "Value": "1"
+          },
+          {
+            "Name": "comments",
+            "Value": "0"
+          },
+          {
+            "Name": "password",
+            "Value": "0"
+          },
+          {
+            "Name": "nfo",
+            "Value": "0"
+          },
+          {
+            "Name": "usenetdate",
+            "Value": "Mon, 15 Apr 2019 00:38:55 +0100"
+          }
+        ]
+      },
+      {
+        "Title": "[Koten_Gars] Sword Art Online -The Movie- Ordinal Scale v2 [JP.BD][Hi10][1080p][DTS-HD MA] [456818E3]",
+        "Guid": {
+          "Text": "https://example.com/details/a1fbb7259f1fc5f3600b02a404651dbf",
+          "IsPermaLink": "true"
+        },
+        "Link": "https://example.com/getnzb/a1fbb7259f1fc5f3600b02a404651dbf.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+        "Comments": "https://example.com/details/a1fbb7259f1fc5f3600b02a404651dbf#comments",
+        "PubDate": "Tue, 11 Dec 2018 21:34:12 +0000",
+        "Category": "TV \u003e Anime",
+        "Description": "[Koten_Gars] Sword Art Online -The Movie- Ordinal Scale v2 [JP.BD][Hi10][1080p][DTS-HD MA] [456818E3]",
+        "Enclosure": {
+          "URL": "https://example.com/getnzb/a1fbb7259f1fc5f3600b02a404651dbf.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+          "Length": "22298422005",
+          "Type": "application/x-nzb"
+        },
+        "Attr": [
+          {
+            "Name": "category",
+            "Value": "5000"
+          },
+          {
+            "Name": "category",
+            "Value": "5070"
+          },
+          {
+            "Name": "size",
+            "Value": "22298422005"
+          },
+          {
+            "Name": "guid",
+            "Value": "a1fbb7259f1fc5f3600b02a404651dbf"
+          },
+          {
+            "Name": "files",
+            "Value": "106"
+          },
+          {
+            "Name": "poster",
+            "Value": "TheChup@test.com (TheChup)"
+          },
+          {
+            "Name": "grabs",
+            "Value": "4"
+          },
+          {
+            "Name": "comments",
+            "Value": "0"
+          },
+          {
+            "Name": "password",
+            "Value": "0"
+          },
+          {
+            "Name": "nfo",
+            "Value": "0"
+          },
+          {
+            "Name": "usenetdate",
+            "Value": "Tue, 11 Dec 2018 21:29:42 +0000"
+          }
+        ]
+      },
+      {
+        "Title": "Sword.Art.Online.Ordinal.Scale.2017.1080p.Blu-Ray.10-Bit.Dual-Audio.DTS-HD.x265-iAHD",
+        "Guid": {
+          "Text": "https://example.com/details/290cc31653f41fe700a8b57e267d354a",
+          "IsPermaLink": "true"
+        },
+        "Link": "https://example.com/getnzb/290cc31653f41fe700a8b57e267d354a.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+        "Comments": "https://example.com/details/290cc31653f41fe700a8b57e267d354a#comments",
+        "PubDate": "Sun, 09 Dec 2018 22:15:29 +0000",
+        "Category": "TV \u003e Anime",
+        "Description": "Sword.Art.Online.Ordinal.Scale.2017.1080p.Blu-Ray.10-Bit.Dual-Audio.DTS-HD.x265-iAHD",
+        "Enclosure": {
+          "URL": "https://example.com/getnzb/290cc31653f41fe700a8b57e267d354a.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+          "Length": "16045804540",
+          "Type": "application/x-nzb"
+        },
+        "Attr": [
+          {
+            "Name": "category",
+            "Value": "5000"
+          },
+          {
+            "Name": "category",
+            "Value": "5070"
+          },
+          {
+            "Name": "size",
+            "Value": "16045804540"
+          },
+          {
+            "Name": "guid",
+            "Value": "290cc31653f41fe700a8b57e267d354a"
+          },
+          {
+            "Name": "files",
+            "Value": "9"
+          },
+          {
+            "Name": "poster",
+            "Value": "Anime Tosho \u003cusenet.bot@animetosho.org\u003e"
+          },
+          {
+            "Name": "grabs",
+            "Value": "1"
+          },
+          {
+            "Name": "comments",
+            "Value": "0"
+          },
+          {
+            "Name": "password",
+            "Value": "0"
+          },
+          {
+            "Name": "nfo",
+            "Value": "0"
+          },
+          {
+            "Name": "usenetdate",
+            "Value": "Sun, 09 Dec 2018 22:05:16 +0000"
+          }
+        ]
+      },
+      {
+        "Title": "[SmugCat] Sword Art Online the Movie -Ordinal Scale- [BD 1080p 10bit FLAC] [A180D8F5]",
+        "Guid": {
+          "Text": "https://example.com/details/5f5a5f6777c67a2e255fbc2aa0d647f2",
+          "IsPermaLink": "true"
+        },
+        "Link": "https://example.com/getnzb/5f5a5f6777c67a2e255fbc2aa0d647f2.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+        "Comments": "https://example.com/details/5f5a5f6777c67a2e255fbc2aa0d647f2#comments",
+        "PubDate": "Tue, 06 Nov 2018 08:00:15 +0000",
+        "Category": "TV \u003e Anime",
+        "Description": "[SmugCat] Sword Art Online the Movie -Ordinal Scale- [BD 1080p 10bit FLAC] [A180D8F5]",
+        "Enclosure": {
+          "URL": "https://example.com/getnzb/5f5a5f6777c67a2e255fbc2aa0d647f2.nzb\u0026i=38759\u0026r=15ab7874ba5d4067acec51e1c2e39453",
+          "Length": "19258792800",
+          "Type": "application/x-nzb"
+        },
+        "Attr": [
+          {
+            "Name": "category",
+            "Value": "5000"
+          },
+          {
+            "Name": "category",
+            "Value": "5070"
+          },
+          {
+            "Name": "size",
+            "Value": "19258792800"
+          },
+          {
+            "Name": "guid",
+            "Value": "5f5a5f6777c67a2e255fbc2aa0d647f2"
+          },
+          {
+            "Name": "files",
+            "Value": "181"
+          },
+          {
+            "Name": "poster",
+            "Value": "gR6i8eToiBu1BAFIWv@3a7d4A3rwkbLB3.Tc5M"
+          },
+          {
+            "Name": "grabs",
+            "Value": "2"
+          },
+          {
+            "Name": "comments",
+            "Value": "0"
+          },
+          {
+            "Name": "password",
+            "Value": "0"
+          },
+          {
+            "Name": "nfo",
+            "Value": "0"
+          },
+          {
+            "Name": "usenetdate",
+            "Value": "Tue, 06 Nov 2018 07:51:14 +0000"
+          }
+        ]
+      }
+    ]
+  }
+}
